@@ -1,6 +1,6 @@
 # ☕ Sobre mí:
 Estudiante en Ingeniería de Software.<br>
-Actualmente practico de manera autodidacta.
+Actualmente practico de manera autodidacta.<br>
 Intento aprender todos los días al menos un poco relacionado a mis metas como desarrollador Jr.
 
 ## 🌐 Redes:
