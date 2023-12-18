@@ -1,7 +1,7 @@
 # ☕ Sobre mí:
-Estudiante en Ingeniería de Software.<br>
-Actualmente practico de manera autodidacta.<br>
-Intento aprender todos los días al menos un poco relacionado a mis metas como desarrollador Jr.
+🎓 > Estudiante de 8vo semestre en Ingeniería de Software.<br>
+💻 > Actualmente practico de manera autodidacta.<br>
+📆 > Todos los días aprendo al menos un poco relacionado a mis metas como desarrollador Jr.<br>
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiram-molina) 
