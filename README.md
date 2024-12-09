@@ -1,5 +1,5 @@
 # ☕ Sobre mí:
-🎓 > Estudiante de 8vo semestre en Ingeniería de Software.<br>
+🎓 > Egresado y titulado en Ingeniería de Software.<br>
 💻 > Actualmente practico de manera autodidacta.<br>
 📆 > Todos los días aprendo al menos un poco relacionado a mis metas como desarrollador Jr.<br>
 
